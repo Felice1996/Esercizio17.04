@@ -27,7 +27,8 @@ namespace Esercizio17._04
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                string nome = context.Request.Query["nome"];
+                global::System.Object value = await context.Response.WriteAsync($"Hello {nome}!");
             });
         }
     }
