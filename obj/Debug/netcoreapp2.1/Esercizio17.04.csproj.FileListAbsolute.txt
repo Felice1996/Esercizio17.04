@@ -1,0 +1,14 @@
+C:\Users\fiore\Documents\Esercizio17.04\bin\Debug\netcoreapp2.1\Esercizio17.04.deps.json
+C:\Users\fiore\Documents\Esercizio17.04\bin\Debug\netcoreapp2.1\Esercizio17.04.runtimeconfig.json
+C:\Users\fiore\Documents\Esercizio17.04\bin\Debug\netcoreapp2.1\Esercizio17.04.runtimeconfig.dev.json
+C:\Users\fiore\Documents\Esercizio17.04\bin\Debug\netcoreapp2.1\Esercizio17.04.dll
+C:\Users\fiore\Documents\Esercizio17.04\bin\Debug\netcoreapp2.1\Esercizio17.04.pdb
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.csprojAssemblyReference.cache
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.csproj.CoreCompileInputs.cache
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.RazorAssemblyInfo.cache
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.RazorAssemblyInfo.cs
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.AssemblyInfoInputs.cache
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.AssemblyInfo.cs
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.RazorTargetAssemblyInfo.cache
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.dll
+C:\Users\fiore\Documents\Esercizio17.04\obj\Debug\netcoreapp2.1\Esercizio17.04.pdb
